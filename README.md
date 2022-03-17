@@ -1,0 +1,1 @@
+# FunctionAppNET6
